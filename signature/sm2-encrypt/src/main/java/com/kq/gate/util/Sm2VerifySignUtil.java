@@ -11,6 +11,7 @@ import java.util.Set;
 import java.util.TreeMap;
 
 /**
+ * 私钥生成sign，公钥验签
  * 本类只验证签名验证
  * @author: kq
  * @date: 2023-08-14 16:59:15
