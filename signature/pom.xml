@@ -10,8 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>school-gate-access-encrypt</module>
         <module>generate-key</module>
+        <module>rsa-encrypt</module>
     </modules>
 
     <artifactId>signature</artifactId>
